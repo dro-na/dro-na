@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae74f5f6-5120-429d-be06-bdbe6e701fbc" alt="cover photo" width="100%">
+</p>
 
 
 <!--
