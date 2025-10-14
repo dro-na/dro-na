@@ -1,4 +1,4 @@
-## Hi there 👋
+![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomicbook.com%2Fanime%2Fnews%2Favatar-the-last-airbender-zuko-anime-cosplay%2F&psig=AOvVaw2lXE4tDzyMsJedBro5hBqd&ust=1760568715656000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjgutPnpJADFQAAAAAdAAAAABAE)
 
 <!--
 **dro-na/dro-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
