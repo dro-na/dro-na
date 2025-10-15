@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ae74f5f6-5120-429d-be06-bdbe6e701fbc" alt="cover photo" width="100%">
-</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6853e4c7-9aa4-4e7e-83b0-3f1e7a4e5344" alt= "cover photo " width="100%">
+</p>
 
 <!--
 **dro-na/dro-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
