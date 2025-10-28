@@ -1,23 +1,11 @@
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6853e4c7-9aa4-4e7e-83b0-3f1e7a4e5344" alt= "cover photo " width="100%">
+  <img src="./header.svg" alt="IN MY CODING ROLLERCOASTER" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6853e4c7-9aa4-4e7e-83b0-3f1e7a4e5344" alt="cover photo" width="100%">
+</p>
 
-<div>
-  <h1 style="Color:red;">IN MY CODING ROLLERCOASTER</h1>
-</div>
-<!--
-**dro-na/dro-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Every bug, every fix, every line of code — part of the ride 🚀
+</p>
