@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  Every bug, every fix, every line of code — part of the ride 🚀
+  Every bug, every debug, makes a skilful Dev 🚀
 </p>
