@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150">
+  <style>
+    .title { font: bold 48px sans-serif; fill: #e63946; } /* red */
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title">
+    🎢 IN MY CODING ROLLERCOASTER 🎢
+  </text>
+</svg>
