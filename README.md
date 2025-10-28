@@ -3,6 +3,10 @@
   <img src="https://github.com/user-attachments/assets/6853e4c7-9aa4-4e7e-83b0-3f1e7a4e5344" alt= "cover photo " width="100%">
 </p>
 
+
+<div>
+  <h1 style="Color:red;">IN MY CODING ROLLERCOASTER</h1>
+</div>
 <!--
 **dro-na/dro-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
