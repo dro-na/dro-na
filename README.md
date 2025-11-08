@@ -29,4 +29,25 @@
 </p>
 
 
+### Socials
+
+<table>
+  <tr>
+    <td><a href="https://new-portfolio-project-iota.vercel.app/" target="_blank" style="width=20em">🌍 Portfolio</a></td>
+    <td><a href="mailto:mgbebuephraimchima@gmail.com">📧 Email</a></td>
+    <td><a href="https://www.linkedin.com/in/ephraim-mgbebu-368371215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">💼 LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><a href="#" target="_blank">💡 CodePen</a></td>
+  <td><a href="https://www.github.com/dro-na" target="_blank">💻 GitHub</a></td>
+  <td><a href="#" target="_blank">🎨 Behance</a></td>
+</tr>
+<tr>
+  <td><a href="#" target="_blank">🎯 Dribbble</a></td>
+    <td><a href="https://www.instagram.com/drona_szn" target="_blank">📷 Instagram</a></td>
+  <td><a href="https://x.com/drona_szn?s=21" target="_blank">🐦 Twitter</a></td>
+</tr>
+</table>
+
+
 
