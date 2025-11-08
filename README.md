@@ -30,10 +30,6 @@
 </p>
 
 
-
-
-### Socials
-
 <div align="center" style="margin-top: 20px;">
   <h3>Socials</h3>
   <p>
@@ -47,23 +43,6 @@
 </div>
 
 
-<table>
-  <tr>
-    <td><a href="https://new-portfolio-project-iota.vercel.app/" target="_blank" style="width=20em">🌍 Portfolio</a></td>
-    <td><a href="">📧 Email</a></td>
-    <td><a href="" target="_blank">💼 LinkedIn</a></td>
-  </tr>
-  <tr>
-    <td><a href="#" target="_blank">💡 CodePen</a></td>
-  <td><a href="" target="_blank">💻 GitHub</a></td>
-  <td><a href="#" target="_blank">🎨 Behance</a></td>
-</tr>
-<tr>
-  <td><a href="#" target="_blank">🎯 Dribbble</a></td>
-    <td><a href="" target="_blank">📷 Instagram</a></td>
-  <td><a href="" target="_blank">🐦 Twitter</a></td>
-</tr>
-</table>
 
 
 
