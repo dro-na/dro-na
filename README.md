@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  Every bug, every debug, makes a skilful Dev 🚀
+  <strong>Software Engineer | Full Stack Developer | Brand Identity & Product Design Enthusiast</strong>
 </p>
+
 
 
 <p align="center">
@@ -27,6 +28,8 @@
   <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
+
 
 
 ### Socials
