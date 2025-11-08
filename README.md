@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer | Full Stack Developer | Brand Identity & Product Design Enthusiast</strong>
+  <strong>Software Engineer | Full Stack Developer | Brand Identity & Product Design</strong>
 </p>
 
 
