@@ -13,12 +13,8 @@
 
 
 
-<p align="center">
-  <img src="./skills.svg" alt="IN MY CODING ROLLERCOASTER" width="100%">
-</p>
-
-
-
+<div align="center" style="margin-top: 20px;">
+  <h3>Skills</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,6 +24,10 @@
   <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
+</div>
+
+<hr>
 
 
 <div align="center" style="margin-top: 20px;">
