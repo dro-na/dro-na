@@ -11,10 +11,14 @@
   <strong>Software Engineer | Full Stack Developer | Brand Identity & Product Design</strong>
 </p>
 
+<hr>
+
 I’m currently open to:
 - Freelance opportunities
 - Remote roles
 - Exciting collaborations
+
+  <hr>
 
 <div align="center" style="margin-top: 20px;">
   <h3>Skills</h3>
@@ -40,6 +44,8 @@ I’m currently open to:
 </p>
 
 </div>
+
+<hr>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhhbXFxbnB4enBpMnRzMGZ4d3JqZzNsbjljMXdjdzM1NncwcWJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif" width="5300" style="width: 100%">
 
