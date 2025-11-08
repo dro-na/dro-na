@@ -33,7 +33,7 @@
 <div align="center" style="margin-top: 20px;">
   <h3>Socials</h3>
   <p>
-    <a href="https://mgbebu-ephraim.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://mgbebu-ephraim.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" /></a>
     <a href="mailto:mgbebuephraimchima@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/ephraim-mgbebu-368371215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.github.com/dro-na"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
