@@ -12,6 +12,10 @@
 </p>
 
 
+<p align="center">
+  <img src="./skills.svg" alt="IN MY CODING ROLLERCOASTER" width="100%">
+</p>
+
 
 
 
