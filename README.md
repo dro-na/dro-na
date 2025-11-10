@@ -16,7 +16,7 @@ I’m currently open to:
   <hr>
 
 <div align="center" style="margin-top: 20px;">
-  <h3>TOOLS</h3>
+  <h3>Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html5&logoColor=white" />
