@@ -42,7 +42,6 @@ I’m currently open to:
 
 <hr>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhhbXFxbnB4enBpMnRzMGZ4d3JqZzNsbjljMXdjdzM1NncwcWJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif" width="5300" style="width: 100%">
 
 
 
