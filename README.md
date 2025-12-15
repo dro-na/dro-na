@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer | Full Stack Developer | Graphics Design</strong>
+  <strong> | Full Stack Developer | </strong>
 </p>
 
 <hr>
